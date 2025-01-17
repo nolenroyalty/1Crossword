@@ -526,8 +526,6 @@ def generate_many_crosswords(max_grid_size, word_list, max_time):
             best_grid = g
             best_score = score
 
-    print(f"Best grid score: {best_score}")
-    print(best_grid)
     return best_grid
 
 
