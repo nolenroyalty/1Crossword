@@ -1,6 +1,8 @@
 # 1Crossword
 Finally, a fun game for your password manager.
 
+https://github.com/user-attachments/assets/e125aa64-00a0-4260-a4c7-8e3f69a63e54
+
 1Crossword connects to your 1Password vault and constructs a crossword where all the answers are your passwords.
 
 The crosswords are fun, easy, and great for sharing on social media.
